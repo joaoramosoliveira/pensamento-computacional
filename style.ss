@@ -1,16 +1,4 @@
- body{
-background-color:
-}
-
-
- h1{
-color: ;
-font-family: ;
-background: ;
-}
-p{
-color: ;
-font-family: ;
-font-size: ;
-background: ;
+p {
+color: red;
+text-align: center;
 }
